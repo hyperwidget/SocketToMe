@@ -1,4 +1,4 @@
-var socket = io.connect('http://localhost');
+var socket = io.connect('http://calmlycoding.com:9876');
 
 //Bind listeners to the two static buttons
 $(document).ready(function () {
